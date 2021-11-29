@@ -5,7 +5,8 @@ This is just a starting boilerplate for rapid backend and frontend development.
 For backend I am using NestJs, which is a NodeJs framework with TypeScript. You can find the documentation on this link
 https://docs.nestjs.com
 
-For frontend I am using NextJS, the React Framework for fast production and prototyping. You can find the documentation on this link.
+For frontend I am using NextJS, the React Framework for fast production and prototyping. You can find the documentation on this link
+https://nextjs.org
 
 I have created a combination of these two frameworks in a single model-view-controller repo for ultralight infrastructure with only one deployment and no synchronization needed. The same node server that serves the API will serve the frontend too.
 
